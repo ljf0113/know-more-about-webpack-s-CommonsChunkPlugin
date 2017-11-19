@@ -1,4 +1,4 @@
-# know-more-about-webpack-s-CommonsChunkPlugin
+# 知多一点 webpack 的 CommonsChunkPlugin
 
 hello ~ 亲爱的看官老爷们大家好 ~ 最近一直在学习 `webpack` 的相关知识。曾几何时我总觉得 `webpack` 的体系庞大而难以掌握，一直回避不愿去学。然而伟人鲁迅曾说过： ~~世上太多事会因无法掌握而使你狂躁不安，最好的解决方法就是硬着头皮开始做！~~ 因而就从比较简单的 `CommonsChunkPlugin` 开始学起吧~ 
 
